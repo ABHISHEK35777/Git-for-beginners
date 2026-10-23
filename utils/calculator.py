@@ -2,10 +2,8 @@ def add_nums(a,b):
     return a+b
 
 def divide_nums(a,b):
-    """returns the division of a and b"""
     return a/b
 def subtract_nums(a,b):
-    """returns the difference of a and b"""
     return a-b 
 def power(a,b):
      return a**b
