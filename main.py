@@ -13,7 +13,11 @@ if __name__ == "__main__" :
     print(subtract_nums(5,3))
     print(power(2,4))
     
+<<<<<<< HEAD
     print(multily_nums(3,4))
+=======
+    print(multioply_nums(3,4))
+>>>>>>> feature/code-formatting
 
     
 
